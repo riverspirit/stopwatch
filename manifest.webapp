@@ -1,0 +1,13 @@
+{
+  "name": "Stopwatch",
+  "description": "Stopwatch",
+  "launch_path": "/",
+  "icons": {
+    "128": "/images/app_icon_128.png"
+  },
+  "developer": {
+    "name": "jsx",
+    "url": "http://rebugged.com/"
+  },
+  "default_locale": "en"
+}
